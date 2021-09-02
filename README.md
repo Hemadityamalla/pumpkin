@@ -129,7 +129,15 @@ To run simple examples provided with package type:
 		$ ./pumpkin Examples/Global_Kin
 
 
+Possible sources of error while compilation
+=================================================
+- On fedora 32, 64bit arch, i5 10th Gen Dell Inspiron: The original Makefile (when downloading the package from Aram's website) has the following on line 23:
+`$(LINK) $(LFLAGS) -std=gnu++0x $(OBJ) -o $@ $(LIBS)`
+where `$(LFLAGS) = -stdlib=libc++`. 
 
+This line gives me an error. I found the solution here: https://stackoverflow.com/questions/34654682/unrecognized-command-line-option-stdlib-libc-gcc-homebrew-gcc-5-3-0-5-3-0
+
+- I had to install glpk (GNU Linear Programming Kit). Earlier I installed the ix86 version. This gave me an error saying that my libglpk.so is incompatible. I found the solution in: https://stackoverflow.com/questions/53668578/skipping-incompatible-directory-gcc . Basically, reinstalling the x86_64 version of ligglpk.so using the dnf dragrora software manager fixed the problem.
 
 
 
