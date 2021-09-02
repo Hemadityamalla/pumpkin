@@ -1,24 +1,24 @@
 #### I took the stuff from the guy below. He does not seem to be maintaining it anymore. 
 
 
-#Copyright (c) 2013-2015 Aram H Markosyan. All rights reserved.
-#
-# This file is part of PumpKin (see http://www.pumpkin-tool.org).
-# Please see the COPYRIGHT_and_LICENSE file for the copyright notice, 
-# disclaimer, contact information and the GNU Lesser General Public License.
-#
-# PumpKin is free software; you can redistribute it and/or modify it under the
-# terms of the GNU General Public License (as published by the Free Software 
-# Foundation) version 2.
-#
-# PumpKin is distributed in the hope that it will be useful, but WITHOUT ANY 
-# WARRANTY; without even the IMPLIED WARRANTY OF MERCHANTABILITY or FITNESS 
-# FOR A PARTICULAR PURPOSE.  See the terms and conditions of the GNU General
-# Public License for more details.
-#
-# You should have received a copy of the GNU Lesser General Public License
-# along with this program; if not, write to the Free Software Foundation,
-# Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+#### Copyright (c) 2013-2015 Aram H Markosyan. All rights reserved.
+#####
+##### This file is part of PumpKin (see http://www.pumpkin-tool.org).
+##### Please see the COPYRIGHT_and_LICENSE file for the copyright notice, 
+##### disclaimer, contact information and the GNU Lesser General Public License.
+#####
+##### PumpKin is free software; you can redistribute it and/or modify it under the
+##### terms of the GNU General Public License (as published by the Free Software 
+##### Foundation) version 2.
+#####
+##### PumpKin is distributed in the hope that it will be useful, but WITHOUT ANY 
+##### WARRANTY; without even the IMPLIED WARRANTY OF MERCHANTABILITY or FITNESS 
+##### FOR A PARTICULAR PURPOSE.  See the terms and conditions of the GNU General
+##### Public License for more details.
+#####
+##### You should have received a copy of the GNU Lesser General Public License
+##### along with this program; if not, write to the Free Software Foundation,
+##### Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 ###############################################################################
 
 Download
